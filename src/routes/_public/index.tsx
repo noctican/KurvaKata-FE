@@ -60,7 +60,7 @@ function LandingPage() {
                       <Card className="col-span-2 bg-white/80 border-primary-100 shadow-sm">
                           <CardHeader className="pb-2">
                              <div className="flex items-center justify-between">
-                                <CardTitle className="text-lg">Audiobook Sejarah</CardTitle>
+                                <CardTitle className="text-lg">Audiobook Perpajakan</CardTitle>
                                 <span className="bg-primary-100 text-primary-700 text-xs px-2 py-1 rounded-full">Sedang Diputar</span>
                              </div>
                           </CardHeader>
@@ -73,7 +73,7 @@ function LandingPage() {
                                       <div className="h-2 w-full bg-primary-100 rounded-full mb-2 overflow-hidden">
                                           <div className="h-full bg-primary-500 w-[65%] rounded-full animate-pulse"></div>
                                       </div>
-                                      <p className="text-xs text-muted-foreground">Bab 3: Era Reformasi (12:30 / 45:00)</p>
+                                      <p className="text-xs text-muted-foreground">Bab 3: Audit Pajak (12:30 / 45:00)</p>
                                   </div>
                               </div>
                           </CardContent>
